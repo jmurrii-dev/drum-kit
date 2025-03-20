@@ -30,14 +30,14 @@ _(Replace `screenshot.png` with an actual image of your project!)_
 
 ## 🔥 How to Use
 
-1. **Clone the repository**:
+**Clone the repository**:
 
-   ```bash
-   git clone https://github.com/jmurrii-dev/drum-kit.git
+```bash
+git clone https://github.com/jmurrii-dev/drum-kit.git
 
 
-   ## 🔥 How to Use
-   ```
+## 🔥 How to Use
+```
 
 2. **Open `index.html` in your browser.**
 3. **Press the keys (`A, S, D, F, G, H, J, K, L`) to play different drum sounds.**
